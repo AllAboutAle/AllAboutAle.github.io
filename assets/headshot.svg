@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 500" role="img" aria-labelledby="title desc">
+  <title id="title">Headshot placeholder</title>
+  <desc id="desc">Replace this illustration with Alejandro Guzman's portrait.</desc>
+  <rect width="420" height="500" fill="#e9edf1"/>
+  <circle cx="210" cy="185" r="76" fill="#c9d2dc"/>
+  <path d="M70 500c10-113 62-174 140-174s130 61 140 174" fill="#0B1F3A"/>
+  <path d="M134 174c4-53 34-88 77-88 46 0 75 37 75 88-17-19-40-29-75-29-31 0-57 10-77 29Z" fill="#9ba9b9"/>
+  <text x="210" y="435" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="19" letter-spacing="3">YOUR PHOTO HERE</text>
+</svg>
